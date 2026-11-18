@@ -1,0 +1,36 @@
+# --- Secrets: real keys live only in .env (template: .env.example)
+.env
+.env.*
+!.env.example
+
+# --- Local database and runtime data (recreated by scripts/seed.py)
+mezon.db
+*.db
+data/uploads/
+
+# --- Python caches and virtual environments
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+venv/
+.venv-*/
+
+# --- Logs, archives, local backups
+*.log
+*.zip
+backup/
+
+# --- AI assistant working files (kept on the author's disk, not part of the project)
+.freebuff/
+.claude/
+Claude outputs/
+CLAUDE.md
+*_PROMPT.md
+test_gemini.py
+
+# --- Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

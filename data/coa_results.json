@@ -1,0 +1,41 @@
+{
+  "_note": "MOCK: demo Certificate of Analysis data. make_coa_pdfs.py renders PDFs from this; seed.py inserts LabResults from it.",
+  "certificates": [
+    {"product_key": "para_imp", "batch_no": "EG2504P", "lab": "EuroGenerics QC laboratoriyasi (demo)", "date": "2025-04-22",
+     "results": [
+       {"parameter": "Faol modda miqdori", "value": 99.4, "spec_min": 95, "spec_max": 105, "unit": "%"},
+       {"parameter": "Erish tezligi (30 daq)", "value": 93, "spec_min": 80, "spec_max": null, "unit": "%"},
+       {"parameter": "Aralashmalar (jami)", "value": 0.18, "spec_min": null, "spec_max": 0.5, "unit": "%"},
+       {"parameter": "Namlik", "value": 1.6, "spec_min": null, "spec_max": 3.0, "unit": "%"}]},
+    {"product_key": "para_loc", "batch_no": "DF2508P", "lab": "Demo Farm sifat nazorati laboratoriyasi", "date": "2025-08-15",
+     "results": [
+       {"parameter": "Faol modda miqdori", "value": 100.6, "spec_min": 95, "spec_max": 105, "unit": "%"},
+       {"parameter": "Erish tezligi (30 daq)", "value": 91, "spec_min": 80, "spec_max": null, "unit": "%"},
+       {"parameter": "Aralashmalar (jami)", "value": 0.22, "spec_min": null, "spec_max": 0.5, "unit": "%"},
+       {"parameter": "Namlik", "value": 1.9, "spec_min": null, "spec_max": 3.0, "unit": "%"}]},
+    {"product_key": "ibu_imp", "batch_no": "AN2410I", "lab": "Anatoliya QC laboratoriyasi (demo)", "date": "2024-10-28",
+     "results": [
+       {"parameter": "Faol modda miqdori", "value": 98.1, "spec_min": 95, "spec_max": 105, "unit": "%"},
+       {"parameter": "Erish tezligi (30 daq)", "value": 74, "spec_min": 80, "spec_max": null, "unit": "%"},
+       {"parameter": "Aralashmalar (jami)", "value": 0.31, "spec_min": null, "spec_max": 0.5, "unit": "%"},
+       {"parameter": "Namlik", "value": 2.2, "spec_min": null, "spec_max": 3.0, "unit": "%"}]},
+    {"product_key": "ibu_loc", "batch_no": "NV2507I", "lab": "Navro'z Farm sifat laboratoriyasi (demo)", "date": "2025-07-30",
+     "results": [
+       {"parameter": "Faol modda miqdori", "value": 101.2, "spec_min": 95, "spec_max": 105, "unit": "%"},
+       {"parameter": "Erish tezligi (30 daq)", "value": 88, "spec_min": 80, "spec_max": null, "unit": "%"},
+       {"parameter": "Aralashmalar (jami)", "value": 0.27, "spec_min": null, "spec_max": 0.5, "unit": "%"},
+       {"parameter": "Namlik", "value": 2.0, "spec_min": null, "spec_max": 3.0, "unit": "%"}]},
+    {"product_key": "aml_loc", "batch_no": "OV2509A", "lab": "Oltin Vodiy Farm QC (demo)", "date": "2025-09-22",
+     "results": [
+       {"parameter": "Faol modda miqdori", "value": 97.8, "spec_min": 95, "spec_max": 105, "unit": "%"},
+       {"parameter": "Erish tezligi (30 daq)", "value": 90, "spec_min": 80, "spec_max": null, "unit": "%"},
+       {"parameter": "Aralashmalar (jami)", "value": 0.15, "spec_min": null, "spec_max": 0.5, "unit": "%"},
+       {"parameter": "Namlik", "value": 2.4, "spec_min": null, "spec_max": 3.0, "unit": "%"}]},
+    {"product_key": "tylol", "batch_no": "NB2506T", "lab": "Ishlab chiqaruvchi QC laboratoriyasi (demo ma'lumot)", "date": "2025-06-25",
+     "results": [
+       {"parameter": "Faol modda miqdori (paratsetamol)", "value": 99.0, "spec_min": 95, "spec_max": 105, "unit": "%"},
+       {"parameter": "Faol modda miqdori (psevdoefedrin)", "value": 98.6, "spec_min": 95, "spec_max": 105, "unit": "%"},
+       {"parameter": "Aralashmalar (jami)", "value": 0.2, "spec_min": null, "spec_max": 0.5, "unit": "%"},
+       {"parameter": "Namlik", "value": 0.8, "spec_min": null, "spec_max": 2.0, "unit": "%"}]}
+  ]
+}

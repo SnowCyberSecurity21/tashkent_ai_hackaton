@@ -1,0 +1,10 @@
+[
+  {"key": "gipertoniya", "label_uz": "Gipertoniya"},
+  {"key": "diabet", "label_uz": "Diabet"},
+  {"key": "astma", "label_uz": "Astma"},
+  {"key": "epilepsiya", "label_uz": "Epilepsiya"},
+  {"key": "glaukoma", "label_uz": "Glaukoma"},
+  {"key": "jigar_kasalligi", "label_uz": "Jigar kasalligi"},
+  {"key": "buyrak_kasalligi", "label_uz": "Buyrak kasalligi"},
+  {"key": "homiladorlik", "label_uz": "Homiladorlik"}
+]

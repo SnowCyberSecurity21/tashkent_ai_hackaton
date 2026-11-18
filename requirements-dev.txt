@@ -1,0 +1,6 @@
+# Tests and helper scripts: pip install -r requirements-dev.txt
+-r requirements.txt
+pytest>=8.0
+httpx>=0.27       # fastapi.testclient.TestClient
+requests>=2.31    # scripts/smoke_test.py
+reportlab>=4.0    # scripts/make_coa_pdfs.py (regenerates the mock CoA PDFs in data/coa/)

@@ -1,0 +1,1158 @@
+{
+ "clone_serial": "OMEK7Q2X9ZB41",
+ "clone_first_city": "Samarqand",
+ "featured": [
+  {
+   "scenario": "conformity_expired",
+   "label": "Dentashan gel",
+   "product_key": "dentashan",
+   "element_string": "(01)08906045340359(21)RPDF454TNT3Q5(17)270731(10)LP2407G",
+   "serial": "RPDF454TNT3Q5",
+   "batch_no": "LP2407G"
+  },
+  {
+   "scenario": "import_paracetamol",
+   "label": "Paratsetamol (import)",
+   "product_key": "para_imp",
+   "element_string": "(01)04007000011209(21)4VZUMTHBR24SW(17)290430(10)EG2504P",
+   "serial": "4VZUMTHBR24SW",
+   "batch_no": "EG2504P"
+  },
+  {
+   "scenario": "local_paracetamol",
+   "label": "Paratsetamol (mahalliy)",
+   "product_key": "para_loc",
+   "element_string": "(01)04787000011330(21)3RHPRZDTETNJS(17)280831(10)DF2508P",
+   "serial": "3RHPRZDTETNJS",
+   "batch_no": "DF2508P"
+  },
+  {
+   "scenario": "tylol_hot",
+   "label": "Tylol Hot",
+   "product_key": "tylol",
+   "element_string": "(01)08697000013684(21)S9VMRFCTY954M(17)270630(10)NB2506T",
+   "serial": "S9VMRFCTY954M",
+   "batch_no": "NB2506T"
+  },
+  {
+   "scenario": "clone",
+   "label": "Omeprazol — klon kod",
+   "product_key": "ome_imp",
+   "element_string": "(01)08697000012571(21)OMEK7Q2X9ZB41(17)280531(10)AN2505O",
+   "serial": "OMEK7Q2X9ZB41",
+   "batch_no": "AN2505O"
+  },
+  {
+   "scenario": "recalled",
+   "label": "Diklofenak — qaytarib olingan",
+   "product_key": "dic_imp",
+   "element_string": "(01)03837000011722(21)E4VN8ZJPKUF56(17)270228(10)BP2402D",
+   "serial": "E4VN8ZJPKUF56",
+   "batch_no": "BP2402D"
+  },
+  {
+   "scenario": "expired",
+   "label": "Setirizin — muddati o'tgan",
+   "product_key": "set_imp",
+   "element_string": "(01)04007000012831(21)UMX6KWSTE8S62(17)260930(10)EG2309S",
+   "serial": "UMX6KWSTE8S62",
+   "batch_no": "EG2309S"
+  },
+  {
+   "scenario": "coa_out_of_spec",
+   "label": "Ibuprofen (import)",
+   "product_key": "ibu_imp",
+   "element_string": "(01)08697000011468(21)MNSKHPDVWWDL4(17)271031(10)AN2410I",
+   "serial": "MNSKHPDVWWDL4",
+   "batch_no": "AN2410I"
+  },
+  {
+   "scenario": "near_expiry",
+   "label": "Amlodipin — muddati yaqin",
+   "product_key": "aml_loc",
+   "element_string": "(01)04787000012658(21)7P65Z5DNHRASD(17)270131(10)OV2501A",
+   "serial": "7P65Z5DNHRASD",
+   "batch_no": "OV2501A"
+  },
+  {
+   "scenario": "unknown",
+   "label": "Noma'lum seriya",
+   "product_key": "para_loc",
+   "element_string": "(01)04787000011330(21)ZZFAKE0000001(17)280831(10)DF2508P",
+   "serial": "ZZFAKE0000001",
+   "batch_no": "DF2508P"
+  },
+  {
+   "scenario": "ean13",
+   "label": "Faqat shtrix-kod (EAN-13)",
+   "product_key": "para_imp",
+   "element_string": "4007000011209",
+   "serial": null,
+   "batch_no": null
+  }
+ ],
+ "codes": [
+  {
+   "product_key": "para_imp",
+   "gtin": "04007000011209",
+   "serial": "4VZUMTHBR24SW",
+   "batch_no": "EG2504P",
+   "exp_date": "2029-04-30",
+   "status": "valid",
+   "element_string": "(01)04007000011209(21)4VZUMTHBR24SW(17)290430(10)EG2504P"
+  },
+  {
+   "product_key": "para_imp",
+   "gtin": "04007000011209",
+   "serial": "3JDJNKPXHEV4F",
+   "batch_no": "EG2504P",
+   "exp_date": "2029-04-30",
+   "status": "valid",
+   "element_string": "(01)04007000011209(21)3JDJNKPXHEV4F(17)290430(10)EG2504P"
+  },
+  {
+   "product_key": "para_imp",
+   "gtin": "04007000011209",
+   "serial": "8K4XB5ZDYD8ZA",
+   "batch_no": "EG2504P",
+   "exp_date": "2029-04-30",
+   "status": "valid",
+   "element_string": "(01)04007000011209(21)8K4XB5ZDYD8ZA(17)290430(10)EG2504P"
+  },
+  {
+   "product_key": "para_loc",
+   "gtin": "04787000011330",
+   "serial": "3RHPRZDTETNJS",
+   "batch_no": "DF2508P",
+   "exp_date": "2028-08-31",
+   "status": "valid",
+   "element_string": "(01)04787000011330(21)3RHPRZDTETNJS(17)280831(10)DF2508P"
+  },
+  {
+   "product_key": "para_loc",
+   "gtin": "04787000011330",
+   "serial": "VYWLXGTXADYB7",
+   "batch_no": "DF2508P",
+   "exp_date": "2028-08-31",
+   "status": "valid",
+   "element_string": "(01)04787000011330(21)VYWLXGTXADYB7(17)280831(10)DF2508P"
+  },
+  {
+   "product_key": "para_loc",
+   "gtin": "04787000011330",
+   "serial": "T8DNVSE9BJ393",
+   "batch_no": "DF2508P",
+   "exp_date": "2028-08-31",
+   "status": "valid",
+   "element_string": "(01)04787000011330(21)T8DNVSE9BJ393(17)280831(10)DF2508P"
+  },
+  {
+   "product_key": "ibu_imp",
+   "gtin": "08697000011468",
+   "serial": "MNSKHPDVWWDL4",
+   "batch_no": "AN2410I",
+   "exp_date": "2027-10-31",
+   "status": "valid",
+   "element_string": "(01)08697000011468(21)MNSKHPDVWWDL4(17)271031(10)AN2410I"
+  },
+  {
+   "product_key": "ibu_imp",
+   "gtin": "08697000011468",
+   "serial": "FVS38EFRQSLUD",
+   "batch_no": "AN2410I",
+   "exp_date": "2027-10-31",
+   "status": "valid",
+   "element_string": "(01)08697000011468(21)FVS38EFRQSLUD(17)271031(10)AN2410I"
+  },
+  {
+   "product_key": "ibu_imp",
+   "gtin": "08697000011468",
+   "serial": "939Q46E7PQ8WN",
+   "batch_no": "AN2410I",
+   "exp_date": "2027-10-31",
+   "status": "valid",
+   "element_string": "(01)08697000011468(21)939Q46E7PQ8WN(17)271031(10)AN2410I"
+  },
+  {
+   "product_key": "ibu_imp",
+   "gtin": "08697000011468",
+   "serial": "ZB5DXLQWZMPV5",
+   "batch_no": "AN2506I",
+   "exp_date": "2028-06-30",
+   "status": "valid",
+   "element_string": "(01)08697000011468(21)ZB5DXLQWZMPV5(17)280630(10)AN2506I"
+  },
+  {
+   "product_key": "ibu_imp",
+   "gtin": "08697000011468",
+   "serial": "Y6FGANM676J86",
+   "batch_no": "AN2506I",
+   "exp_date": "2028-06-30",
+   "status": "valid",
+   "element_string": "(01)08697000011468(21)Y6FGANM676J86(17)280630(10)AN2506I"
+  },
+  {
+   "product_key": "ibu_imp",
+   "gtin": "08697000011468",
+   "serial": "AUSMA7XXPDTGA",
+   "batch_no": "AN2506I",
+   "exp_date": "2028-06-30",
+   "status": "valid",
+   "element_string": "(01)08697000011468(21)AUSMA7XXPDTGA(17)280630(10)AN2506I"
+  },
+  {
+   "product_key": "ibu_loc",
+   "gtin": "04787000011668",
+   "serial": "BH8VPGB7QB3H5",
+   "batch_no": "NV2507I",
+   "exp_date": "2028-07-31",
+   "status": "valid",
+   "element_string": "(01)04787000011668(21)BH8VPGB7QB3H5(17)280731(10)NV2507I"
+  },
+  {
+   "product_key": "ibu_loc",
+   "gtin": "04787000011668",
+   "serial": "DDNSTYY43AXFC",
+   "batch_no": "NV2507I",
+   "exp_date": "2028-07-31",
+   "status": "valid",
+   "element_string": "(01)04787000011668(21)DDNSTYY43AXFC(17)280731(10)NV2507I"
+  },
+  {
+   "product_key": "ibu_loc",
+   "gtin": "04787000011668",
+   "serial": "UWWHXJR9U6HSR",
+   "batch_no": "NV2507I",
+   "exp_date": "2028-07-31",
+   "status": "valid",
+   "element_string": "(01)04787000011668(21)UWWHXJR9U6HSR(17)280731(10)NV2507I"
+  },
+  {
+   "product_key": "dic_imp",
+   "gtin": "03837000011722",
+   "serial": "E4VN8ZJPKUF56",
+   "batch_no": "BP2402D",
+   "exp_date": "2027-02-28",
+   "status": "withdrawn",
+   "element_string": "(01)03837000011722(21)E4VN8ZJPKUF56(17)270228(10)BP2402D"
+  },
+  {
+   "product_key": "dic_imp",
+   "gtin": "03837000011722",
+   "serial": "2KKLW9U4ERLKR",
+   "batch_no": "BP2402D",
+   "exp_date": "2027-02-28",
+   "status": "withdrawn",
+   "element_string": "(01)03837000011722(21)2KKLW9U4ERLKR(17)270228(10)BP2402D"
+  },
+  {
+   "product_key": "dic_imp",
+   "gtin": "03837000011722",
+   "serial": "5W6JUR9SNZAHX",
+   "batch_no": "BP2402D",
+   "exp_date": "2027-02-28",
+   "status": "withdrawn",
+   "element_string": "(01)03837000011722(21)5W6JUR9SNZAHX(17)270228(10)BP2402D"
+  },
+  {
+   "product_key": "dic_imp",
+   "gtin": "03837000011722",
+   "serial": "9E5F2RLEUEUX7",
+   "batch_no": "BP2509D",
+   "exp_date": "2028-09-30",
+   "status": "valid",
+   "element_string": "(01)03837000011722(21)9E5F2RLEUEUX7(17)280930(10)BP2509D"
+  },
+  {
+   "product_key": "dic_imp",
+   "gtin": "03837000011722",
+   "serial": "WKKTV2WK5GSRP",
+   "batch_no": "BP2509D",
+   "exp_date": "2028-09-30",
+   "status": "valid",
+   "element_string": "(01)03837000011722(21)WKKTV2WK5GSRP(17)280930(10)BP2509D"
+  },
+  {
+   "product_key": "dic_imp",
+   "gtin": "03837000011722",
+   "serial": "PZ52TFV3PWACD",
+   "batch_no": "BP2509D",
+   "exp_date": "2028-09-30",
+   "status": "valid",
+   "element_string": "(01)03837000011722(21)PZ52TFV3PWACD(17)280930(10)BP2509D"
+  },
+  {
+   "product_key": "dic_loc",
+   "gtin": "04787000011996",
+   "serial": "Y935SV6L4PNPZ",
+   "batch_no": "SH2506D",
+   "exp_date": "2027-06-30",
+   "status": "valid",
+   "element_string": "(01)04787000011996(21)Y935SV6L4PNPZ(17)270630(10)SH2506D"
+  },
+  {
+   "product_key": "dic_loc",
+   "gtin": "04787000011996",
+   "serial": "NQ2E7NYJ86FJR",
+   "batch_no": "SH2506D",
+   "exp_date": "2027-06-30",
+   "status": "valid",
+   "element_string": "(01)04787000011996(21)NQ2E7NYJ86FJR(17)270630(10)SH2506D"
+  },
+  {
+   "product_key": "dic_loc",
+   "gtin": "04787000011996",
+   "serial": "53Q329XRW2PM9",
+   "batch_no": "SH2506D",
+   "exp_date": "2027-06-30",
+   "status": "valid",
+   "element_string": "(01)04787000011996(21)53Q329XRW2PM9(17)270630(10)SH2506D"
+  },
+  {
+   "product_key": "met_imp",
+   "gtin": "05997000011981",
+   "serial": "A8G48GM9BS8JN",
+   "batch_no": "DP2503M",
+   "exp_date": "2028-03-31",
+   "status": "valid",
+   "element_string": "(01)05997000011981(21)A8G48GM9BS8JN(17)280331(10)DP2503M"
+  },
+  {
+   "product_key": "met_imp",
+   "gtin": "05997000011981",
+   "serial": "LSKCHU6DFUSV2",
+   "batch_no": "DP2503M",
+   "exp_date": "2028-03-31",
+   "status": "valid",
+   "element_string": "(01)05997000011981(21)LSKCHU6DFUSV2(17)280331(10)DP2503M"
+  },
+  {
+   "product_key": "met_imp",
+   "gtin": "05997000011981",
+   "serial": "SCBUEDTUY8PGC",
+   "batch_no": "DP2503M",
+   "exp_date": "2028-03-31",
+   "status": "valid",
+   "element_string": "(01)05997000011981(21)SCBUEDTUY8PGC(17)280331(10)DP2503M"
+  },
+  {
+   "product_key": "met_loc",
+   "gtin": "04787000012320",
+   "serial": "ZZ86X9ZQAHYK2",
+   "batch_no": "SH2505M",
+   "exp_date": "2028-05-31",
+   "status": "valid",
+   "element_string": "(01)04787000012320(21)ZZ86X9ZQAHYK2(17)280531(10)SH2505M"
+  },
+  {
+   "product_key": "met_loc",
+   "gtin": "04787000012320",
+   "serial": "HFC3H7KN6DTBG",
+   "batch_no": "SH2505M",
+   "exp_date": "2028-05-31",
+   "status": "valid",
+   "element_string": "(01)04787000012320(21)HFC3H7KN6DTBG(17)280531(10)SH2505M"
+  },
+  {
+   "product_key": "met_loc",
+   "gtin": "04787000012320",
+   "serial": "GJ8QVVVXB5F2A",
+   "batch_no": "SH2505M",
+   "exp_date": "2028-05-31",
+   "status": "valid",
+   "element_string": "(01)04787000012320(21)GJ8QVVVXB5F2A(17)280531(10)SH2505M"
+  },
+  {
+   "product_key": "aml_imp",
+   "gtin": "08907000012243",
+   "serial": "7GWW7D9F7VHKE",
+   "batch_no": "IR2501A",
+   "exp_date": "2028-01-31",
+   "status": "valid",
+   "element_string": "(01)08907000012243(21)7GWW7D9F7VHKE(17)280131(10)IR2501A"
+  },
+  {
+   "product_key": "aml_imp",
+   "gtin": "08907000012243",
+   "serial": "WCKNU4FG2D944",
+   "batch_no": "IR2501A",
+   "exp_date": "2028-01-31",
+   "status": "valid",
+   "element_string": "(01)08907000012243(21)WCKNU4FG2D944(17)280131(10)IR2501A"
+  },
+  {
+   "product_key": "aml_imp",
+   "gtin": "08907000012243",
+   "serial": "SR3JQXQW8WPGP",
+   "batch_no": "IR2501A",
+   "exp_date": "2028-01-31",
+   "status": "valid",
+   "element_string": "(01)08907000012243(21)SR3JQXQW8WPGP(17)280131(10)IR2501A"
+  },
+  {
+   "product_key": "aml_loc",
+   "gtin": "04787000012658",
+   "serial": "7P65Z5DNHRASD",
+   "batch_no": "OV2501A",
+   "exp_date": "2027-01-31",
+   "status": "valid",
+   "element_string": "(01)04787000012658(21)7P65Z5DNHRASD(17)270131(10)OV2501A"
+  },
+  {
+   "product_key": "aml_loc",
+   "gtin": "04787000012658",
+   "serial": "SZ52CABWWMYWR",
+   "batch_no": "OV2501A",
+   "exp_date": "2027-01-31",
+   "status": "valid",
+   "element_string": "(01)04787000012658(21)SZ52CABWWMYWR(17)270131(10)OV2501A"
+  },
+  {
+   "product_key": "aml_loc",
+   "gtin": "04787000012658",
+   "serial": "T66HJBJ7K6AAM",
+   "batch_no": "OV2501A",
+   "exp_date": "2027-01-31",
+   "status": "valid",
+   "element_string": "(01)04787000012658(21)T66HJBJ7K6AAM(17)270131(10)OV2501A"
+  },
+  {
+   "product_key": "aml_loc",
+   "gtin": "04787000012658",
+   "serial": "223GTNNKB7WK8",
+   "batch_no": "OV2509A",
+   "exp_date": "2027-09-30",
+   "status": "valid",
+   "element_string": "(01)04787000012658(21)223GTNNKB7WK8(17)270930(10)OV2509A"
+  },
+  {
+   "product_key": "aml_loc",
+   "gtin": "04787000012658",
+   "serial": "Q5ZS68FMGR9RV",
+   "batch_no": "OV2509A",
+   "exp_date": "2027-09-30",
+   "status": "valid",
+   "element_string": "(01)04787000012658(21)Q5ZS68FMGR9RV(17)270930(10)OV2509A"
+  },
+  {
+   "product_key": "aml_loc",
+   "gtin": "04787000012658",
+   "serial": "GSSW6S3A6TLPP",
+   "batch_no": "OV2509A",
+   "exp_date": "2027-09-30",
+   "status": "valid",
+   "element_string": "(01)04787000012658(21)GSSW6S3A6TLPP(17)270930(10)OV2509A"
+  },
+  {
+   "product_key": "ome_imp",
+   "gtin": "08697000012571",
+   "serial": "OMEK7Q2X9ZB41",
+   "batch_no": "AN2505O",
+   "exp_date": "2028-05-31",
+   "status": "valid",
+   "element_string": "(01)08697000012571(21)OMEK7Q2X9ZB41(17)280531(10)AN2505O"
+  },
+  {
+   "product_key": "ome_imp",
+   "gtin": "08697000012571",
+   "serial": "9C744X7DBFELU",
+   "batch_no": "AN2505O",
+   "exp_date": "2028-05-31",
+   "status": "valid",
+   "element_string": "(01)08697000012571(21)9C744X7DBFELU(17)280531(10)AN2505O"
+  },
+  {
+   "product_key": "ome_imp",
+   "gtin": "08697000012571",
+   "serial": "2CKUMXLXW9Q7U",
+   "batch_no": "AN2505O",
+   "exp_date": "2028-05-31",
+   "status": "valid",
+   "element_string": "(01)08697000012571(21)2CKUMXLXW9Q7U(17)280531(10)AN2505O"
+  },
+  {
+   "product_key": "ome_loc",
+   "gtin": "04787000012986",
+   "serial": "4PL5V7VDXJWCA",
+   "batch_no": "DF2507O",
+   "exp_date": "2027-07-31",
+   "status": "valid",
+   "element_string": "(01)04787000012986(21)4PL5V7VDXJWCA(17)270731(10)DF2507O"
+  },
+  {
+   "product_key": "ome_loc",
+   "gtin": "04787000012986",
+   "serial": "VGFZHPFZL98WJ",
+   "batch_no": "DF2507O",
+   "exp_date": "2027-07-31",
+   "status": "valid",
+   "element_string": "(01)04787000012986(21)VGFZHPFZL98WJ(17)270731(10)DF2507O"
+  },
+  {
+   "product_key": "ome_loc",
+   "gtin": "04787000012986",
+   "serial": "68PQ4BRNE4R8T",
+   "batch_no": "DF2507O",
+   "exp_date": "2027-07-31",
+   "status": "valid",
+   "element_string": "(01)04787000012986(21)68PQ4BRNE4R8T(17)270731(10)DF2507O"
+  },
+  {
+   "product_key": "set_imp",
+   "gtin": "04007000012831",
+   "serial": "UMX6KWSTE8S62",
+   "batch_no": "EG2309S",
+   "exp_date": "2026-09-30",
+   "status": "valid",
+   "element_string": "(01)04007000012831(21)UMX6KWSTE8S62(17)260930(10)EG2309S"
+  },
+  {
+   "product_key": "set_imp",
+   "gtin": "04007000012831",
+   "serial": "AL4XAPD8UHZSZ",
+   "batch_no": "EG2309S",
+   "exp_date": "2026-09-30",
+   "status": "valid",
+   "element_string": "(01)04007000012831(21)AL4XAPD8UHZSZ(17)260930(10)EG2309S"
+  },
+  {
+   "product_key": "set_imp",
+   "gtin": "04007000012831",
+   "serial": "VQCRB9E5C3YQS",
+   "batch_no": "EG2309S",
+   "exp_date": "2026-09-30",
+   "status": "valid",
+   "element_string": "(01)04007000012831(21)VQCRB9E5C3YQS(17)260930(10)EG2309S"
+  },
+  {
+   "product_key": "set_imp",
+   "gtin": "04007000012831",
+   "serial": "TUDASZAQJ6CWF",
+   "batch_no": "EG2507S",
+   "exp_date": "2028-07-31",
+   "status": "valid",
+   "element_string": "(01)04007000012831(21)TUDASZAQJ6CWF(17)280731(10)EG2507S"
+  },
+  {
+   "product_key": "set_imp",
+   "gtin": "04007000012831",
+   "serial": "ZCNVSPAZ5GST2",
+   "batch_no": "EG2507S",
+   "exp_date": "2028-07-31",
+   "status": "valid",
+   "element_string": "(01)04007000012831(21)ZCNVSPAZ5GST2(17)280731(10)EG2507S"
+  },
+  {
+   "product_key": "set_imp",
+   "gtin": "04007000012831",
+   "serial": "PKVDL7VHLFDNN",
+   "batch_no": "EG2507S",
+   "exp_date": "2028-07-31",
+   "status": "valid",
+   "element_string": "(01)04007000012831(21)PKVDL7VHLFDNN(17)280731(10)EG2507S"
+  },
+  {
+   "product_key": "set_loc",
+   "gtin": "04787000013310",
+   "serial": "QZU9AE56LGX93",
+   "batch_no": "NV2504S",
+   "exp_date": "2028-04-30",
+   "status": "valid",
+   "element_string": "(01)04787000013310(21)QZU9AE56LGX93(17)280430(10)NV2504S"
+  },
+  {
+   "product_key": "set_loc",
+   "gtin": "04787000013310",
+   "serial": "A47NBHBTWNMN2",
+   "batch_no": "NV2504S",
+   "exp_date": "2028-04-30",
+   "status": "valid",
+   "element_string": "(01)04787000013310(21)A47NBHBTWNMN2(17)280430(10)NV2504S"
+  },
+  {
+   "product_key": "set_loc",
+   "gtin": "04787000013310",
+   "serial": "HTPNSJZKVFF8V",
+   "batch_no": "NV2504S",
+   "exp_date": "2028-04-30",
+   "status": "valid",
+   "element_string": "(01)04787000013310(21)HTPNSJZKVFF8V(17)280430(10)NV2504S"
+  },
+  {
+   "product_key": "bis_imp",
+   "gtin": "04007000013166",
+   "serial": "44XNRRVT2VLN3",
+   "batch_no": "EG2502B",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04007000013166(21)44XNRRVT2VLN3(17)280229(10)EG2502B"
+  },
+  {
+   "product_key": "bis_imp",
+   "gtin": "04007000013166",
+   "serial": "XQTBNXYU7Z33T",
+   "batch_no": "EG2502B",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04007000013166(21)XQTBNXYU7Z33T(17)280229(10)EG2502B"
+  },
+  {
+   "product_key": "bis_imp",
+   "gtin": "04007000013166",
+   "serial": "LPCS4YRLW8DRM",
+   "batch_no": "EG2502B",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04007000013166(21)LPCS4YRLW8DRM(17)280229(10)EG2502B"
+  },
+  {
+   "product_key": "bis_loc",
+   "gtin": "04787000013648",
+   "serial": "NPGH5WDRJKYSB",
+   "batch_no": "SH2506B",
+   "exp_date": "2028-06-30",
+   "status": "valid",
+   "element_string": "(01)04787000013648(21)NPGH5WDRJKYSB(17)280630(10)SH2506B"
+  },
+  {
+   "product_key": "bis_loc",
+   "gtin": "04787000013648",
+   "serial": "PY4FSWF4YZRPW",
+   "batch_no": "SH2506B",
+   "exp_date": "2028-06-30",
+   "status": "valid",
+   "element_string": "(01)04787000013648(21)PY4FSWF4YZRPW(17)280630(10)SH2506B"
+  },
+  {
+   "product_key": "bis_loc",
+   "gtin": "04787000013648",
+   "serial": "K85CDL4DDEX4L",
+   "batch_no": "SH2506B",
+   "exp_date": "2028-06-30",
+   "status": "valid",
+   "element_string": "(01)04787000013648(21)K85CDL4DDEX4L(17)280630(10)SH2506B"
+  },
+  {
+   "product_key": "var_imp",
+   "gtin": "05997000013350",
+   "serial": "ZYTCB59MBWQJF",
+   "batch_no": "DP2410V",
+   "exp_date": "2027-10-31",
+   "status": "valid",
+   "element_string": "(01)05997000013350(21)ZYTCB59MBWQJF(17)271031(10)DP2410V"
+  },
+  {
+   "product_key": "var_imp",
+   "gtin": "05997000013350",
+   "serial": "LD58RDXEQBBAK",
+   "batch_no": "DP2410V",
+   "exp_date": "2027-10-31",
+   "status": "valid",
+   "element_string": "(01)05997000013350(21)LD58RDXEQBBAK(17)271031(10)DP2410V"
+  },
+  {
+   "product_key": "var_imp",
+   "gtin": "05997000013350",
+   "serial": "FXPWBD8JMK5ED",
+   "batch_no": "DP2410V",
+   "exp_date": "2027-10-31",
+   "status": "valid",
+   "element_string": "(01)05997000013350(21)FXPWBD8JMK5ED(17)271031(10)DP2410V"
+  },
+  {
+   "product_key": "var_loc",
+   "gtin": "04787000013976",
+   "serial": "XQWNT9NPR6JJ5",
+   "batch_no": "OV2505V",
+   "exp_date": "2027-05-31",
+   "status": "valid",
+   "element_string": "(01)04787000013976(21)XQWNT9NPR6JJ5(17)270531(10)OV2505V"
+  },
+  {
+   "product_key": "var_loc",
+   "gtin": "04787000013976",
+   "serial": "793GG3LTUHDNL",
+   "batch_no": "OV2505V",
+   "exp_date": "2027-05-31",
+   "status": "valid",
+   "element_string": "(01)04787000013976(21)793GG3LTUHDNL(17)270531(10)OV2505V"
+  },
+  {
+   "product_key": "var_loc",
+   "gtin": "04787000013976",
+   "serial": "B4LMJLZYDV2SC",
+   "batch_no": "OV2505V",
+   "exp_date": "2027-05-31",
+   "status": "valid",
+   "element_string": "(01)04787000013976(21)B4LMJLZYDV2SC(17)270531(10)OV2505V"
+  },
+  {
+   "product_key": "tylol",
+   "gtin": "08697000013684",
+   "serial": "S9VMRFCTY954M",
+   "batch_no": "NB2506T",
+   "exp_date": "2027-06-30",
+   "status": "valid",
+   "element_string": "(01)08697000013684(21)S9VMRFCTY954M(17)270630(10)NB2506T"
+  },
+  {
+   "product_key": "tylol",
+   "gtin": "08697000013684",
+   "serial": "DR9C8SDFU2MVD",
+   "batch_no": "NB2506T",
+   "exp_date": "2027-06-30",
+   "status": "valid",
+   "element_string": "(01)08697000013684(21)DR9C8SDFU2MVD(17)270630(10)NB2506T"
+  },
+  {
+   "product_key": "tylol",
+   "gtin": "08697000013684",
+   "serial": "H7PF5SWAZY9AV",
+   "batch_no": "NB2506T",
+   "exp_date": "2027-06-30",
+   "status": "valid",
+   "element_string": "(01)08697000013684(21)H7PF5SWAZY9AV(17)270630(10)NB2506T"
+  },
+  {
+   "product_key": "tylol_loc",
+   "gtin": "04787000014300",
+   "serial": "52VHLSQQ2WJKW",
+   "batch_no": "NV2508T",
+   "exp_date": "2027-08-31",
+   "status": "valid",
+   "element_string": "(01)04787000014300(21)52VHLSQQ2WJKW(17)270831(10)NV2508T"
+  },
+  {
+   "product_key": "tylol_loc",
+   "gtin": "04787000014300",
+   "serial": "FFXLKXU5NP2G3",
+   "batch_no": "NV2508T",
+   "exp_date": "2027-08-31",
+   "status": "valid",
+   "element_string": "(01)04787000014300(21)FFXLKXU5NP2G3(17)270831(10)NV2508T"
+  },
+  {
+   "product_key": "tylol_loc",
+   "gtin": "04787000014300",
+   "serial": "A97T39K2V8WDV",
+   "batch_no": "NV2508T",
+   "exp_date": "2027-08-31",
+   "status": "valid",
+   "element_string": "(01)04787000014300(21)A97T39K2V8WDV(17)270831(10)NV2508T"
+  },
+  {
+   "product_key": "dentashan",
+   "gtin": "08906045340359",
+   "serial": "RPDF454TNT3Q5",
+   "batch_no": "LP2407G",
+   "exp_date": "2027-07-31",
+   "status": "valid",
+   "element_string": "(01)08906045340359(21)RPDF454TNT3Q5(17)270731(10)LP2407G"
+  },
+  {
+   "product_key": "dentashan",
+   "gtin": "08906045340359",
+   "serial": "PQ4KWNL7ND8YM",
+   "batch_no": "LP2407G",
+   "exp_date": "2027-07-31",
+   "status": "valid",
+   "element_string": "(01)08906045340359(21)PQ4KWNL7ND8YM(17)270731(10)LP2407G"
+  },
+  {
+   "product_key": "dentashan",
+   "gtin": "08906045340359",
+   "serial": "VUXP7CL26UKQW",
+   "batch_no": "LP2407G",
+   "exp_date": "2027-07-31",
+   "status": "valid",
+   "element_string": "(01)08906045340359(21)VUXP7CL26UKQW(17)270731(10)LP2407G"
+  },
+  {
+   "product_key": "dent_loc",
+   "gtin": "04787000014638",
+   "serial": "95NAT2VB4JUQY",
+   "batch_no": "DF2509G",
+   "exp_date": "2027-09-30",
+   "status": "valid",
+   "element_string": "(01)04787000014638(21)95NAT2VB4JUQY(17)270930(10)DF2509G"
+  },
+  {
+   "product_key": "dent_loc",
+   "gtin": "04787000014638",
+   "serial": "NFT7UN45BUGWG",
+   "batch_no": "DF2509G",
+   "exp_date": "2027-09-30",
+   "status": "valid",
+   "element_string": "(01)04787000014638(21)NFT7UN45BUGWG(17)270930(10)DF2509G"
+  },
+  {
+   "product_key": "dent_loc",
+   "gtin": "04787000014638",
+   "serial": "BJ7ER6ZU898HE",
+   "batch_no": "DF2509G",
+   "exp_date": "2027-09-30",
+   "status": "valid",
+   "element_string": "(01)04787000014638(21)BJ7ER6ZU898HE(17)270930(10)DF2509G"
+  },
+  {
+   "product_key": "asa_loc",
+   "gtin": "04787000014836",
+   "serial": "LDFFZ47F3S7VT",
+   "batch_no": "ASA2506X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000014836(21)LDFFZ47F3S7VT(17)280229(10)ASA2506X"
+  },
+  {
+   "product_key": "asa_loc",
+   "gtin": "04787000014836",
+   "serial": "S8GYV54SWGCUA",
+   "batch_no": "ASA2506X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000014836(21)S8GYV54SWGCUA(17)280229(10)ASA2506X"
+  },
+  {
+   "product_key": "asa_loc",
+   "gtin": "04787000014836",
+   "serial": "J76A46ALQQXSY",
+   "batch_no": "ASA2506X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000014836(21)J76A46ALQQXSY(17)280229(10)ASA2506X"
+  },
+  {
+   "product_key": "keto_imp",
+   "gtin": "03837000014266",
+   "serial": "Q85WW3LUBD49T",
+   "batch_no": "KET2507X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)03837000014266(21)Q85WW3LUBD49T(17)280229(10)KET2507X"
+  },
+  {
+   "product_key": "keto_imp",
+   "gtin": "03837000014266",
+   "serial": "T6Q3SWE5FPXRN",
+   "batch_no": "KET2507X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)03837000014266(21)T6Q3SWE5FPXRN(17)280229(10)KET2507X"
+  },
+  {
+   "product_key": "keto_imp",
+   "gtin": "03837000014266",
+   "serial": "S5VGQ3D9BH3AZ",
+   "batch_no": "KET2507X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)03837000014266(21)S5VGQ3D9BH3AZ(17)280229(10)KET2507X"
+  },
+  {
+   "product_key": "napr_imp",
+   "gtin": "08907000014469",
+   "serial": "6LBQVB495C858",
+   "batch_no": "NAP2508X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)08907000014469(21)6LBQVB495C858(17)280229(10)NAP2508X"
+  },
+  {
+   "product_key": "napr_imp",
+   "gtin": "08907000014469",
+   "serial": "EVRRA5JZZ44UD",
+   "batch_no": "NAP2508X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)08907000014469(21)EVRRA5JZZ44UD(17)280229(10)NAP2508X"
+  },
+  {
+   "product_key": "napr_imp",
+   "gtin": "08907000014469",
+   "serial": "D6BUQQHEQBGD8",
+   "batch_no": "NAP2508X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)08907000014469(21)D6BUQQHEQBGD8(17)280229(10)NAP2508X"
+  },
+  {
+   "product_key": "lor_loc",
+   "gtin": "04787000015291",
+   "serial": "4A2S5LUUCFPEG",
+   "batch_no": "LOR2509X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000015291(21)4A2S5LUUCFPEG(17)280229(10)LOR2509X"
+  },
+  {
+   "product_key": "lor_loc",
+   "gtin": "04787000015291",
+   "serial": "LF6MN422XBCC4",
+   "batch_no": "LOR2509X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000015291(21)LF6MN422XBCC4(17)280229(10)LOR2509X"
+  },
+  {
+   "product_key": "lor_loc",
+   "gtin": "04787000015291",
+   "serial": "FZVQLP83F9P3F",
+   "batch_no": "LOR2509X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000015291(21)FZVQLP83F9P3F(17)280229(10)LOR2509X"
+  },
+  {
+   "product_key": "dif_loc",
+   "gtin": "04787000015499",
+   "serial": "8JJZQGSUCC94E",
+   "batch_no": "DIF2501X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000015499(21)8JJZQGSUCC94E(17)280229(10)DIF2501X"
+  },
+  {
+   "product_key": "dif_loc",
+   "gtin": "04787000015499",
+   "serial": "LUW73MHA7RGLK",
+   "batch_no": "DIF2501X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000015499(21)LUW73MHA7RGLK(17)280229(10)DIF2501X"
+  },
+  {
+   "product_key": "dif_loc",
+   "gtin": "04787000015499",
+   "serial": "7RT8KFXR7RVV8",
+   "batch_no": "DIF2501X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000015499(21)7RT8KFXR7RVV8(17)280229(10)DIF2501X"
+  },
+  {
+   "product_key": "meto_imp",
+   "gtin": "05997000014852",
+   "serial": "45NPYBR29TBQN",
+   "batch_no": "MET2502X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)05997000014852(21)45NPYBR29TBQN(17)280229(10)MET2502X"
+  },
+  {
+   "product_key": "meto_imp",
+   "gtin": "05997000014852",
+   "serial": "GZ72NRL7X52M5",
+   "batch_no": "MET2502X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)05997000014852(21)GZ72NRL7X52M5(17)280229(10)MET2502X"
+  },
+  {
+   "product_key": "meto_imp",
+   "gtin": "05997000014852",
+   "serial": "YVB3ELSYRJ9T4",
+   "batch_no": "MET2502X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)05997000014852(21)YVB3ELSYRJ9T4(17)280229(10)MET2502X"
+  },
+  {
+   "product_key": "aten_loc",
+   "gtin": "04787000015826",
+   "serial": "VP2BKK5MJJD9B",
+   "batch_no": "ATE2503X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000015826(21)VP2BKK5MJJD9B(17)280229(10)ATE2503X"
+  },
+  {
+   "product_key": "aten_loc",
+   "gtin": "04787000015826",
+   "serial": "YZV4V3MKAU7M9",
+   "batch_no": "ATE2503X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000015826(21)YZV4V3MKAU7M9(17)280229(10)ATE2503X"
+  },
+  {
+   "product_key": "aten_loc",
+   "gtin": "04787000015826",
+   "serial": "4Y2FCKHTFM6F2",
+   "batch_no": "ATE2503X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000015826(21)4Y2FCKHTFM6F2(17)280229(10)ATE2503X"
+  },
+  {
+   "product_key": "liz_loc",
+   "gtin": "04787000016021",
+   "serial": "ZMY7UDZSEZCJZ",
+   "batch_no": "LIZ2504X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000016021(21)ZMY7UDZSEZCJZ(17)280229(10)LIZ2504X"
+  },
+  {
+   "product_key": "liz_loc",
+   "gtin": "04787000016021",
+   "serial": "9YPPMWALWNRYE",
+   "batch_no": "LIZ2504X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000016021(21)9YPPMWALWNRYE(17)280229(10)LIZ2504X"
+  },
+  {
+   "product_key": "liz_loc",
+   "gtin": "04787000016021",
+   "serial": "XPZCZQW92YV9R",
+   "batch_no": "LIZ2504X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000016021(21)XPZCZQW92YV9R(17)280229(10)LIZ2504X"
+  },
+  {
+   "product_key": "ena_imp",
+   "gtin": "03837000015249",
+   "serial": "GAR4TGEXGK5PT",
+   "batch_no": "ENA2505X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)03837000015249(21)GAR4TGEXGK5PT(17)280229(10)ENA2505X"
+  },
+  {
+   "product_key": "ena_imp",
+   "gtin": "03837000015249",
+   "serial": "DPYTBTKKAWRR9",
+   "batch_no": "ENA2505X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)03837000015249(21)DPYTBTKKAWRR9(17)280229(10)ENA2505X"
+  },
+  {
+   "product_key": "ena_imp",
+   "gtin": "03837000015249",
+   "serial": "BAY743BEUQNE7",
+   "batch_no": "ENA2505X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)03837000015249(21)BAY743BEUQNE7(17)280229(10)ENA2505X"
+  },
+  {
+   "product_key": "ator_imp",
+   "gtin": "04007000015443",
+   "serial": "8NCGAGV5S95KY",
+   "batch_no": "ATO2506X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04007000015443(21)8NCGAGV5S95KY(17)280229(10)ATO2506X"
+  },
+  {
+   "product_key": "ator_imp",
+   "gtin": "04007000015443",
+   "serial": "EF39NAM9FXY5A",
+   "batch_no": "ATO2506X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04007000015443(21)EF39NAM9FXY5A(17)280229(10)ATO2506X"
+  },
+  {
+   "product_key": "ator_imp",
+   "gtin": "04007000015443",
+   "serial": "RELSCMFFL6HJ6",
+   "batch_no": "ATO2506X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04007000015443(21)RELSCMFFL6HJ6(17)280229(10)ATO2506X"
+  },
+  {
+   "product_key": "azi_imp",
+   "gtin": "08907000015572",
+   "serial": "QUGZYU39J7AVD",
+   "batch_no": "AZI2507X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)08907000015572(21)QUGZYU39J7AVD(17)280229(10)AZI2507X"
+  },
+  {
+   "product_key": "azi_imp",
+   "gtin": "08907000015572",
+   "serial": "8PCF525NTC5LH",
+   "batch_no": "AZI2507X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)08907000015572(21)8PCF525NTC5LH(17)280229(10)AZI2507X"
+  },
+  {
+   "product_key": "azi_imp",
+   "gtin": "08907000015572",
+   "serial": "RL5KL2PF4P5A7",
+   "batch_no": "AZI2507X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)08907000015572(21)RL5KL2PF4P5A7(17)280229(10)AZI2507X"
+  },
+  {
+   "product_key": "amox_loc",
+   "gtin": "04787000016618",
+   "serial": "VJBS6LAJHCRBR",
+   "batch_no": "AMO2508X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000016618(21)VJBS6LAJHCRBR(17)280229(10)AMO2508X"
+  },
+  {
+   "product_key": "amox_loc",
+   "gtin": "04787000016618",
+   "serial": "RECDWDJHBZRQ7",
+   "batch_no": "AMO2508X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000016618(21)RECDWDJHBZRQ7(17)280229(10)AMO2508X"
+  },
+  {
+   "product_key": "amox_loc",
+   "gtin": "04787000016618",
+   "serial": "JLN9CUQL788HV",
+   "batch_no": "AMO2508X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)04787000016618(21)JLN9CUQL788HV(17)280229(10)AMO2508X"
+  },
+  {
+   "product_key": "pant_imp",
+   "gtin": "08697000015831",
+   "serial": "9QBQ6E8A62UAU",
+   "batch_no": "PAN2509X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)08697000015831(21)9QBQ6E8A62UAU(17)280229(10)PAN2509X"
+  },
+  {
+   "product_key": "pant_imp",
+   "gtin": "08697000015831",
+   "serial": "K9W589HWH75C3",
+   "batch_no": "PAN2509X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)08697000015831(21)K9W589HWH75C3(17)280229(10)PAN2509X"
+  },
+  {
+   "product_key": "pant_imp",
+   "gtin": "08697000015831",
+   "serial": "MEXC2KJDMY284",
+   "batch_no": "PAN2509X",
+   "exp_date": "2028-02-29",
+   "status": "valid",
+   "element_string": "(01)08697000015831(21)MEXC2KJDMY284(17)280229(10)PAN2509X"
+  },
+  {
+   "product_key": "dentashan",
+   "gtin": "08906045340359",
+   "serial": "7D126A0001245",
+   "batch_no": "EU601",
+   "exp_date": "2028-12-31",
+   "status": "valid",
+   "element_string": "(01)08906045340359(21)7D126A0001245(17)281231(10)EU601"
+  }
+ ]
+}

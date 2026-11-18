@@ -1,0 +1,1356 @@
+[
+ {
+  "key": "para_imp",
+  "gtin": "04007000011209",
+  "trade_name": "Paratsetamol 500 mg tabletka №20",
+  "inn_list": [
+   {
+    "inn": "paratsetamol",
+    "amount_mg": 500
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "EuroGenerics GmbH (demo)",
+  "country": "Germaniya",
+  "is_local": false,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 32000,
+  "max_units_per_day": 8,
+  "shelf_life_months": 48,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Paratsetamol 500 mg tabletka №20",
+   "Ishlab chiqaruvchi": "EuroGenerics GmbH (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Germaniya",
+   "Ta'sir qiluvchi moddalar": "Paratsetamol-500 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "48",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "para_loc",
+  "gtin": "04787000011330",
+  "trade_name": "Paratsetamol-Demo 500 mg tabletka №20",
+  "inn_list": [
+   {
+    "inn": "paratsetamol",
+    "amount_mg": 500
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Demo Farm MChJ",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 14000,
+  "max_units_per_day": 8,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Paratsetamol-Demo 500 mg tabletka №20",
+   "Ishlab chiqaruvchi": "Demo Farm MChJ",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Paratsetamol-500 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "ibu_imp",
+  "gtin": "08697000011468",
+  "trade_name": "Ibuprofen 400 mg tabletka №20",
+  "inn_list": [
+   {
+    "inn": "ibuprofen",
+    "amount_mg": 400
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Anatoliya Ilac A.S. (demo)",
+  "country": "Turkiya",
+  "is_local": false,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 38000,
+  "max_units_per_day": 3,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Ibuprofen 400 mg tabletka №20",
+   "Ishlab chiqaruvchi": "Anatoliya Ilac A.S. (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Turkiya",
+   "Ta'sir qiluvchi moddalar": "Ibuprofen-400 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "ibu_loc",
+  "gtin": "04787000011668",
+  "trade_name": "Ibuprofen-Navro'z 400 mg tabletka №20",
+  "inn_list": [
+   {
+    "inn": "ibuprofen",
+    "amount_mg": 400
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Navro'z Farm (demo)",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 21000,
+  "max_units_per_day": 3,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Ibuprofen-Navro'z 400 mg tabletka №20",
+   "Ishlab chiqaruvchi": "Navro'z Farm (demo)",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Ibuprofen-400 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "dic_imp",
+  "gtin": "03837000011722",
+  "trade_name": "Diklofenak 50 mg tabletka №20",
+  "inn_list": [
+   {
+    "inn": "diklofenak",
+    "amount_mg": 50
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Balkan Pharma d.o.o. (demo)",
+  "country": "Sloveniya",
+  "is_local": false,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 29000,
+  "max_units_per_day": 3,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Diklofenak 50 mg tabletka №20",
+   "Ishlab chiqaruvchi": "Balkan Pharma d.o.o. (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Sloveniya",
+   "Ta'sir qiluvchi moddalar": "Diklofenak-50 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "dic_loc",
+  "gtin": "04787000011996",
+  "trade_name": "Diklofenak-Shifo 50 mg tabletka №20",
+  "inn_list": [
+   {
+    "inn": "diklofenak",
+    "amount_mg": 50
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Shifo Lab (demo)",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 15500,
+  "max_units_per_day": 3,
+  "shelf_life_months": 24,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Diklofenak-Shifo 50 mg tabletka №20",
+   "Ishlab chiqaruvchi": "Shifo Lab (demo)",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Diklofenak-50 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "24",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "met_imp",
+  "gtin": "05997000011981",
+  "trade_name": "Metformin 500 mg tabletka №60",
+  "inn_list": [
+   {
+    "inn": "metformin",
+    "amount_mg": 500
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Danube Pharma Zrt (demo)",
+  "country": "Vengriya",
+  "is_local": false,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 54000,
+  "max_units_per_day": 4,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Metformin 500 mg tabletka №60",
+   "Ishlab chiqaruvchi": "Danube Pharma Zrt (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Vengriya",
+   "Ta'sir qiluvchi moddalar": "Metformin-500 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "met_loc",
+  "gtin": "04787000012320",
+  "trade_name": "Metformin-Shifo 500 mg tabletka №60",
+  "inn_list": [
+   {
+    "inn": "metformin",
+    "amount_mg": 500
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Shifo Lab (demo)",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 27000,
+  "max_units_per_day": 4,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Metformin-Shifo 500 mg tabletka №60",
+   "Ishlab chiqaruvchi": "Shifo Lab (demo)",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Metformin-500 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "aml_imp",
+  "gtin": "08907000012243",
+  "trade_name": "Amlodipin 5 mg tabletka №30",
+  "inn_list": [
+   {
+    "inn": "amlodipin",
+    "amount_mg": 5
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Indus Remedies Ltd (demo)",
+  "country": "Hindiston",
+  "is_local": false,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 36000,
+  "max_units_per_day": 2,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Amlodipin 5 mg tabletka №30",
+   "Ishlab chiqaruvchi": "Indus Remedies Ltd (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Hindiston",
+   "Ta'sir qiluvchi moddalar": "Amlodipin-5 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "aml_loc",
+  "gtin": "04787000012658",
+  "trade_name": "Amlodipin-Vodiy 5 mg tabletka №30",
+  "inn_list": [
+   {
+    "inn": "amlodipin",
+    "amount_mg": 5
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Oltin Vodiy Farm (demo)",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 19000,
+  "max_units_per_day": 2,
+  "shelf_life_months": 24,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Amlodipin-Vodiy 5 mg tabletka №30",
+   "Ishlab chiqaruvchi": "Oltin Vodiy Farm (demo)",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Amlodipin-5 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "24",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "ome_imp",
+  "gtin": "08697000012571",
+  "trade_name": "Omeprazol 20 mg kapsula №30",
+  "inn_list": [
+   {
+    "inn": "omeprazol",
+    "amount_mg": 20
+   }
+  ],
+  "dose_form": "kapsula",
+  "route": "og'iz orqali",
+  "manufacturer": "Anatoliya Ilac A.S. (demo)",
+  "country": "Turkiya",
+  "is_local": false,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 42000,
+  "max_units_per_day": 2,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Omeprazol 20 mg kapsula №30",
+   "Ishlab chiqaruvchi": "Anatoliya Ilac A.S. (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Turkiya",
+   "Ta'sir qiluvchi moddalar": "Omeprazol-20 mg",
+   "Dori shakli": "kapsula",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "ome_loc",
+  "gtin": "04787000012986",
+  "trade_name": "Omeprazol-Demo 20 mg kapsula №30",
+  "inn_list": [
+   {
+    "inn": "omeprazol",
+    "amount_mg": 20
+   }
+  ],
+  "dose_form": "kapsula",
+  "route": "og'iz orqali",
+  "manufacturer": "Demo Farm MChJ",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 23000,
+  "max_units_per_day": 2,
+  "shelf_life_months": 24,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Omeprazol-Demo 20 mg kapsula №30",
+   "Ishlab chiqaruvchi": "Demo Farm MChJ",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Omeprazol-20 mg",
+   "Dori shakli": "kapsula",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "24",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "set_imp",
+  "gtin": "04007000012831",
+  "trade_name": "Setirizin 10 mg tabletka №10",
+  "inn_list": [
+   {
+    "inn": "setirizin",
+    "amount_mg": 10
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "EuroGenerics GmbH (demo)",
+  "country": "Germaniya",
+  "is_local": false,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 31000,
+  "max_units_per_day": 1,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Setirizin 10 mg tabletka №10",
+   "Ishlab chiqaruvchi": "EuroGenerics GmbH (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Germaniya",
+   "Ta'sir qiluvchi moddalar": "Setirizin-10 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "set_loc",
+  "gtin": "04787000013310",
+  "trade_name": "Setirizin-Navro'z 10 mg tabletka №10",
+  "inn_list": [
+   {
+    "inn": "setirizin",
+    "amount_mg": 10
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Navro'z Farm (demo)",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 16000,
+  "max_units_per_day": 1,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Setirizin-Navro'z 10 mg tabletka №10",
+   "Ishlab chiqaruvchi": "Navro'z Farm (demo)",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Setirizin-10 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "bis_imp",
+  "gtin": "04007000013166",
+  "trade_name": "Bisoprolol 5 mg tabletka №30",
+  "inn_list": [
+   {
+    "inn": "bisoprolol",
+    "amount_mg": 5
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "EuroGenerics GmbH (demo)",
+  "country": "Germaniya",
+  "is_local": false,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 46000,
+  "max_units_per_day": 2,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Bisoprolol 5 mg tabletka №30",
+   "Ishlab chiqaruvchi": "EuroGenerics GmbH (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Germaniya",
+   "Ta'sir qiluvchi moddalar": "Bisoprolol-5 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "bis_loc",
+  "gtin": "04787000013648",
+  "trade_name": "Bisoprolol-Shifo 5 mg tabletka №30",
+  "inn_list": [
+   {
+    "inn": "bisoprolol",
+    "amount_mg": 5
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Shifo Lab (demo)",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 24000,
+  "max_units_per_day": 2,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Bisoprolol-Shifo 5 mg tabletka №30",
+   "Ishlab chiqaruvchi": "Shifo Lab (demo)",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Bisoprolol-5 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "var_imp",
+  "gtin": "05997000013350",
+  "trade_name": "Varfarin 5 mg tabletka №50",
+  "inn_list": [
+   {
+    "inn": "varfarin",
+    "amount_mg": 5
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Danube Pharma Zrt (demo)",
+  "country": "Vengriya",
+  "is_local": false,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 61000,
+  "max_units_per_day": 2,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Varfarin 5 mg tabletka №50",
+   "Ishlab chiqaruvchi": "Danube Pharma Zrt (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Vengriya",
+   "Ta'sir qiluvchi moddalar": "Varfarin-5 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "var_loc",
+  "gtin": "04787000013976",
+  "trade_name": "Varfarin-Vodiy 5 mg tabletka №50",
+  "inn_list": [
+   {
+    "inn": "varfarin",
+    "amount_mg": 5
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Oltin Vodiy Farm (demo)",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": null,
+  "price_uzs": 39000,
+  "max_units_per_day": 2,
+  "shelf_life_months": 24,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Varfarin-Vodiy 5 mg tabletka №50",
+   "Ishlab chiqaruvchi": "Oltin Vodiy Farm (demo)",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Varfarin-5 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "24",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "tylol",
+  "gtin": "08697000013684",
+  "trade_name": "Tylol Hot 500 mg+60 mg+4 mg kukun, 1 paket",
+  "inn_list": [
+   {
+    "inn": "paratsetamol",
+    "amount_mg": 500
+   },
+   {
+    "inn": "psevdoefedrin",
+    "amount_mg": 60
+   },
+   {
+    "inn": "xlorfeniramin",
+    "amount_mg": 4
+   }
+  ],
+  "dose_form": "kukun (paket)",
+  "route": "og'iz orqali",
+  "manufacturer": "NOBEL İLAÇ SANAYİİ VE TİCARET A.Ş.",
+  "country": "Turkiya",
+  "is_local": false,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": null,
+  "price_uzs": 6500,
+  "max_units_per_day": 4,
+  "shelf_life_months": 24,
+  "is_original": true,
+  "raw_official": {
+   "Savdo nomi": "Tylol Hot 500 mg+60 mg+4 mg kukun, 1 paket",
+   "Ishlab chiqaruvchi": "NOBEL İLAÇ SANAYİİ VE TİCARET A.Ş.",
+   "Ishlab chiqaruvchi mamlakat": "Turkiya",
+   "Ta'sir qiluvchi moddalar": "Paratsetamol-500 mg, Psevdoefedrin-60 mg, Xlorfeniramin-4 mg",
+   "Dori shakli": "kukun (paket)",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "24",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "tylol_loc",
+  "gtin": "04787000014300",
+  "trade_name": "Gripp-Demo Hot kukun, 1 paket",
+  "inn_list": [
+   {
+    "inn": "paratsetamol",
+    "amount_mg": 500
+   },
+   {
+    "inn": "psevdoefedrin",
+    "amount_mg": 60
+   },
+   {
+    "inn": "xlorfeniramin",
+    "amount_mg": 4
+   }
+  ],
+  "dose_form": "kukun (paket)",
+  "route": "og'iz orqali",
+  "manufacturer": "Navro'z Farm (demo)",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 3500,
+  "max_units_per_day": 4,
+  "shelf_life_months": 24,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Gripp-Demo Hot kukun, 1 paket",
+   "Ishlab chiqaruvchi": "Navro'z Farm (demo)",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Paratsetamol-500 mg, Psevdoefedrin-60 mg, Xlorfeniramin-4 mg",
+   "Dori shakli": "kukun (paket)",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "24",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "dentashan",
+  "gtin": "08906045340359",
+  "trade_name": "Dentashan milk uchun gel 25 g №1",
+  "inn_list": [
+   {
+    "inn": "metronidazol",
+    "amount_mg": 16
+   },
+   {
+    "inn": "xlorgeksidin",
+    "amount_mg": 2.5
+   }
+  ],
+  "dose_form": "gel",
+  "route": "stomatologik",
+  "manufacturer": "LINCOLN PHARMACEUTICALS LIMITED",
+  "country": "Hindiston",
+  "is_local": false,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": true,
+  "gmp": true,
+  "bioequivalence": null,
+  "price_uzs": 48000,
+  "max_units_per_day": 3,
+  "shelf_life_months": 36,
+  "is_original": true,
+  "raw_official": {
+   "Savdo nomi": "Dentashan milk uchun gel 25 g №1",
+   "Ishlab chiqaruvchi": "LINCOLN PHARMACEUTICALS LIMITED",
+   "Ishlab chiqaruvchi mamlakat": "Hindiston",
+   "Ta'sir qiluvchi moddalar": "Metrodonidazol -16 mg, hlorgeksedin-2.5 mg",
+   "Dori shakli": "gel",
+   "Boshqaruv usuli": "Stomatologiya",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Ha"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "dent_loc",
+  "gtin": "04787000014638",
+  "trade_name": "Metroxil-Denta gel 25 g №1",
+  "inn_list": [
+   {
+    "inn": "metronidazol",
+    "amount_mg": 16
+   },
+   {
+    "inn": "xlorgeksidin",
+    "amount_mg": 2.5
+   }
+  ],
+  "dose_form": "gel",
+  "route": "stomatologik",
+  "manufacturer": "Demo Farm MChJ",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 26000,
+  "max_units_per_day": 3,
+  "shelf_life_months": 24,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Metroxil-Denta gel 25 g №1",
+   "Ishlab chiqaruvchi": "Demo Farm MChJ",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Metronidazol-16 mg, Xlorgeksidin-2.5 mg",
+   "Dori shakli": "gel",
+   "Boshqaruv usuli": "Stomatologiya",
+   "Yaroqlilik muddati": "24",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "asa_loc",
+  "gtin": "04787000014836",
+  "trade_name": "Atsetilsalitsil kislota 100 mg tabletka №30",
+  "inn_list": [
+   {
+    "inn": "atsetilsalitsil kislota",
+    "amount_mg": 100
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Shifo Lab (demo)",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 9000,
+  "max_units_per_day": 1,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Atsetilsalitsil kislota 100 mg tabletka №30",
+   "Ishlab chiqaruvchi": "Shifo Lab (demo)",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Atsetilsalitsil kislota-100 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "keto_imp",
+  "gtin": "03837000014266",
+  "trade_name": "Ketoprofen 100 mg tabletka №20",
+  "inn_list": [
+   {
+    "inn": "ketoprofen",
+    "amount_mg": 100
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Balkan Pharma d.o.o. (demo)",
+  "country": "Sloveniya",
+  "is_local": false,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 44000,
+  "max_units_per_day": 2,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Ketoprofen 100 mg tabletka №20",
+   "Ishlab chiqaruvchi": "Balkan Pharma d.o.o. (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Sloveniya",
+   "Ta'sir qiluvchi moddalar": "Ketoprofen-100 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "napr_imp",
+  "gtin": "08907000014469",
+  "trade_name": "Naproksen 250 mg tabletka №20",
+  "inn_list": [
+   {
+    "inn": "naproksen",
+    "amount_mg": 250
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Indus Remedies Ltd (demo)",
+  "country": "Hindiston",
+  "is_local": false,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": false,
+  "bioequivalence": true,
+  "price_uzs": 27000,
+  "max_units_per_day": 4,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Naproksen 250 mg tabletka №20",
+   "Ishlab chiqaruvchi": "Indus Remedies Ltd (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Hindiston",
+   "Ta'sir qiluvchi moddalar": "Naproksen-250 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "lor_loc",
+  "gtin": "04787000015291",
+  "trade_name": "Loratadin-Demo 10 mg tabletka №10",
+  "inn_list": [
+   {
+    "inn": "loratadin",
+    "amount_mg": 10
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Demo Farm MChJ",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 8500,
+  "max_units_per_day": 1,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Loratadin-Demo 10 mg tabletka №10",
+   "Ishlab chiqaruvchi": "Demo Farm MChJ",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Loratadin-10 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "dif_loc",
+  "gtin": "04787000015499",
+  "trade_name": "Difengidramin 50 mg tabletka №20",
+  "inn_list": [
+   {
+    "inn": "difengidramin",
+    "amount_mg": 50
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Oltin Vodiy Farm (demo)",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 7000,
+  "max_units_per_day": 3,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Difengidramin 50 mg tabletka №20",
+   "Ishlab chiqaruvchi": "Oltin Vodiy Farm (demo)",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Difengidramin-50 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "meto_imp",
+  "gtin": "05997000014852",
+  "trade_name": "Metoprolol 50 mg tabletka №30",
+  "inn_list": [
+   {
+    "inn": "metoprolol",
+    "amount_mg": 50
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Danube Pharma Zrt (demo)",
+  "country": "Vengriya",
+  "is_local": false,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 39000,
+  "max_units_per_day": 4,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Metoprolol 50 mg tabletka №30",
+   "Ishlab chiqaruvchi": "Danube Pharma Zrt (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Vengriya",
+   "Ta'sir qiluvchi moddalar": "Metoprolol-50 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "aten_loc",
+  "gtin": "04787000015826",
+  "trade_name": "Atenolol-Shifo 50 mg tabletka №30",
+  "inn_list": [
+   {
+    "inn": "atenolol",
+    "amount_mg": 50
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Shifo Lab (demo)",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 12000,
+  "max_units_per_day": 2,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Atenolol-Shifo 50 mg tabletka №30",
+   "Ishlab chiqaruvchi": "Shifo Lab (demo)",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Atenolol-50 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "liz_loc",
+  "gtin": "04787000016021",
+  "trade_name": "Lizinopril-Navro'z 10 mg tabletka №30",
+  "inn_list": [
+   {
+    "inn": "lizinopril",
+    "amount_mg": 10
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Navro'z Farm (demo)",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 18000,
+  "max_units_per_day": 4,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Lizinopril-Navro'z 10 mg tabletka №30",
+   "Ishlab chiqaruvchi": "Navro'z Farm (demo)",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Lizinopril-10 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "ena_imp",
+  "gtin": "03837000015249",
+  "trade_name": "Enalapril 10 mg tabletka №20",
+  "inn_list": [
+   {
+    "inn": "enalapril",
+    "amount_mg": 10
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Balkan Pharma d.o.o. (demo)",
+  "country": "Sloveniya",
+  "is_local": false,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 25000,
+  "max_units_per_day": 4,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Enalapril 10 mg tabletka №20",
+   "Ishlab chiqaruvchi": "Balkan Pharma d.o.o. (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Sloveniya",
+   "Ta'sir qiluvchi moddalar": "Enalapril-10 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "ator_imp",
+  "gtin": "04007000015443",
+  "trade_name": "Atorvastatin 20 mg tabletka №30",
+  "inn_list": [
+   {
+    "inn": "atorvastatin",
+    "amount_mg": 20
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "EuroGenerics GmbH (demo)",
+  "country": "Germaniya",
+  "is_local": false,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 69000,
+  "max_units_per_day": 4,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Atorvastatin 20 mg tabletka №30",
+   "Ishlab chiqaruvchi": "EuroGenerics GmbH (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Germaniya",
+   "Ta'sir qiluvchi moddalar": "Atorvastatin-20 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "azi_imp",
+  "gtin": "08907000015572",
+  "trade_name": "Azitromitsin 500 mg tabletka №3",
+  "inn_list": [
+   {
+    "inn": "azitromitsin",
+    "amount_mg": 500
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Indus Remedies Ltd (demo)",
+  "country": "Hindiston",
+  "is_local": false,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 35000,
+  "max_units_per_day": 1,
+  "shelf_life_months": 24,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Azitromitsin 500 mg tabletka №3",
+   "Ishlab chiqaruvchi": "Indus Remedies Ltd (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Hindiston",
+   "Ta'sir qiluvchi moddalar": "Azitromitsin-500 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "24",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "amox_loc",
+  "gtin": "04787000016618",
+  "trade_name": "Amoksitsillin-Demo 500 mg kapsula №16",
+  "inn_list": [
+   {
+    "inn": "amoksitsillin",
+    "amount_mg": 500
+   }
+  ],
+  "dose_form": "kapsula",
+  "route": "og'iz orqali",
+  "manufacturer": "Demo Farm MChJ",
+  "country": "O'zbekiston",
+  "is_local": true,
+  "rx_only": true,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 17000,
+  "max_units_per_day": 3,
+  "shelf_life_months": 24,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Amoksitsillin-Demo 500 mg kapsula №16",
+   "Ishlab chiqaruvchi": "Demo Farm MChJ",
+   "Ishlab chiqaruvchi mamlakat": "O'zbekiston",
+   "Ta'sir qiluvchi moddalar": "Amoksitsillin-500 mg",
+   "Dori shakli": "kapsula",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "24",
+   "Retsept bo'yicha": "Ha",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ },
+ {
+  "key": "pant_imp",
+  "gtin": "08697000015831",
+  "trade_name": "Pantoprazol 40 mg tabletka №28",
+  "inn_list": [
+   {
+    "inn": "pantoprazol",
+    "amount_mg": 40
+   }
+  ],
+  "dose_form": "tabletka",
+  "route": "og'iz orqali",
+  "manufacturer": "Anatoliya Ilac A.S. (demo)",
+  "country": "Turkiya",
+  "is_local": false,
+  "rx_only": false,
+  "reg_status": "registered",
+  "conformity_expired": false,
+  "gmp": true,
+  "bioequivalence": true,
+  "price_uzs": 58000,
+  "max_units_per_day": 2,
+  "shelf_life_months": 36,
+  "is_original": false,
+  "raw_official": {
+   "Savdo nomi": "Pantoprazol 40 mg tabletka №28",
+   "Ishlab chiqaruvchi": "Anatoliya Ilac A.S. (demo)",
+   "Ishlab chiqaruvchi mamlakat": "Turkiya",
+   "Ta'sir qiluvchi moddalar": "Pantoprazol-40 mg",
+   "Dori shakli": "tabletka",
+   "Boshqaruv usuli": "Og'iz orqali",
+   "Yaroqlilik muddati": "36",
+   "Retsept bo'yicha": "Yo'q",
+   "Ro'yxatdan o'tganlik holati": "Ro'yxatdan o'tgan",
+   "Muvofiqlik hujjatining tugaganligining belgisi": "Yo'q"
+  },
+  "is_mock": true
+ }
+]

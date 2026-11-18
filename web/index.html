@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="uz">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#FAF7F0">
+  <meta name="description" content="Mezon — dori qadog'idagi kodni skanerlang: rasmiy holat, Ishonch indeksi, mahalliy analoglar va xavfsiz qabul.">
+  <title>Mezon — dorilarga ishonch</title>
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <script>
+    // apply saved theme before paint (no flash)
+    try { var t = JSON.parse(localStorage.getItem("mezon.theme") || '"auto"'); if (t === "light" || t === "dark") document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+  <link rel="stylesheet" href="vendor/fonts/inter.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <script src="vendor/tailwind-play-3.4.16.js"></script>
+  <script>
+    tailwind.config = {
+      corePlugins: { preflight: false },
+      theme: { extend: { fontFamily: { sans: ["Inter", "system-ui", "sans-serif"] } } },
+    };
+  </script>
+  <script src="vendor/lucide-0.460.0.min.js"></script>
+</head>
+<body>
+  <div class="shell">
+    <header class="topbar" id="topbar">
+      <a href="#/" class="flex items-center gap-2 no-underline" style="color:var(--text);text-decoration:none" aria-label="Mezon bosh sahifa">
+        <img src="assets/logo-mark.svg" width="32" height="32" alt="">
+        <span class="t-18" style="font-weight:600;letter-spacing:-0.01em">Mezon</span>
+      </a>
+      <span class="flex-1"></span>
+      <span class="demo-badge" title="Barcha rasmiy ma'lumotlar, partiyalar va indekslar namoyish uchun yaratilgan">Demo ma'lumot</span>
+    </header>
+    <main id="view" class="view" tabindex="-1"></main>
+    <nav class="tabbar" aria-label="Asosiy bo'limlar">
+      <a class="tab" href="#/" data-tab="/"><span class="tab-ico"><i data-lucide="house"></i></span>Bosh sahifa</a>
+      <a class="tab" href="#/scan" data-tab="/scan"><span class="tab-ico"><i data-lucide="scan-line"></i></span>Skaner</a>
+      <a class="tab" href="#/meds" data-tab="/meds"><span class="tab-ico"><i data-lucide="pill"></i></span>Dorilarim</a>
+      <a class="tab" href="#/profile" data-tab="/profile"><span class="tab-ico"><i data-lucide="user"></i></span>Profil</a>
+    </nav>
+  </div>
+  <noscript><div style="padding:24px">Mezon ishlashi uchun JavaScript yoqilgan bo'lishi kerak.</div></noscript>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

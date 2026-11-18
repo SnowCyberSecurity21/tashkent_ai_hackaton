@@ -1,0 +1,13 @@
+# Mezon: packages needed to run the app (python -m uvicorn app.main:app)
+fastapi>=0.110
+uvicorn[standard]>=0.29
+sqlmodel>=0.0.22
+pydantic>=2.6
+python-multipart>=0.0.9   # file uploads (CoA, "Rasmdan o'qish")
+python-dotenv>=1.0        # reads .env
+pdfplumber>=0.11          # text from CoA / leaflet PDFs
+google-genai>=1.0         # Gemini (default LLM provider); without a key the app uses cached/precomputed results
+zxing-cpp>=2.2            # server-side barcode decoding (POST /api/decode-image)
+Pillow>=10.0
+# optional: only when LLM_PROVIDER=anthropic
+# anthropic>=0.40

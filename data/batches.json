@@ -1,0 +1,282 @@
+[
+ {
+  "product_key": "para_imp",
+  "batch_no": "EG2504P",
+  "mfg_date": "2025-04-10",
+  "exp_date": "2029-04-30",
+  "recalled": false
+ },
+ {
+  "product_key": "para_loc",
+  "batch_no": "DF2508P",
+  "mfg_date": "2025-08-02",
+  "exp_date": "2028-08-31",
+  "recalled": false
+ },
+ {
+  "product_key": "ibu_imp",
+  "batch_no": "AN2410I",
+  "mfg_date": "2024-10-15",
+  "exp_date": "2027-10-31",
+  "recalled": false
+ },
+ {
+  "product_key": "ibu_imp",
+  "batch_no": "AN2506I",
+  "mfg_date": "2025-06-01",
+  "exp_date": "2028-06-30",
+  "recalled": false
+ },
+ {
+  "product_key": "ibu_loc",
+  "batch_no": "NV2507I",
+  "mfg_date": "2025-07-20",
+  "exp_date": "2028-07-31",
+  "recalled": false
+ },
+ {
+  "product_key": "dic_imp",
+  "batch_no": "BP2402D",
+  "mfg_date": "2024-02-11",
+  "exp_date": "2027-02-28",
+  "recalled": true
+ },
+ {
+  "product_key": "dic_imp",
+  "batch_no": "BP2509D",
+  "mfg_date": "2025-09-05",
+  "exp_date": "2028-09-30",
+  "recalled": false
+ },
+ {
+  "product_key": "dic_loc",
+  "batch_no": "SH2506D",
+  "mfg_date": "2025-06-18",
+  "exp_date": "2027-06-30",
+  "recalled": false
+ },
+ {
+  "product_key": "met_imp",
+  "batch_no": "DP2503M",
+  "mfg_date": "2025-03-03",
+  "exp_date": "2028-03-31",
+  "recalled": false
+ },
+ {
+  "product_key": "met_loc",
+  "batch_no": "SH2505M",
+  "mfg_date": "2025-05-12",
+  "exp_date": "2028-05-31",
+  "recalled": false
+ },
+ {
+  "product_key": "aml_imp",
+  "batch_no": "IR2501A",
+  "mfg_date": "2025-01-21",
+  "exp_date": "2028-01-31",
+  "recalled": false
+ },
+ {
+  "product_key": "aml_loc",
+  "batch_no": "OV2501A",
+  "mfg_date": "2025-01-15",
+  "exp_date": "2027-01-31",
+  "recalled": false
+ },
+ {
+  "product_key": "aml_loc",
+  "batch_no": "OV2509A",
+  "mfg_date": "2025-09-10",
+  "exp_date": "2027-09-30",
+  "recalled": false
+ },
+ {
+  "product_key": "ome_imp",
+  "batch_no": "AN2505O",
+  "mfg_date": "2025-05-05",
+  "exp_date": "2028-05-31",
+  "recalled": false
+ },
+ {
+  "product_key": "ome_loc",
+  "batch_no": "DF2507O",
+  "mfg_date": "2025-07-01",
+  "exp_date": "2027-07-31",
+  "recalled": false
+ },
+ {
+  "product_key": "set_imp",
+  "batch_no": "EG2309S",
+  "mfg_date": "2023-09-01",
+  "exp_date": "2026-09-30",
+  "recalled": false
+ },
+ {
+  "product_key": "set_imp",
+  "batch_no": "EG2507S",
+  "mfg_date": "2025-07-07",
+  "exp_date": "2028-07-31",
+  "recalled": false
+ },
+ {
+  "product_key": "set_loc",
+  "batch_no": "NV2504S",
+  "mfg_date": "2025-04-14",
+  "exp_date": "2028-04-30",
+  "recalled": false
+ },
+ {
+  "product_key": "bis_imp",
+  "batch_no": "EG2502B",
+  "mfg_date": "2025-02-02",
+  "exp_date": "2028-02-29",
+  "recalled": false
+ },
+ {
+  "product_key": "bis_loc",
+  "batch_no": "SH2506B",
+  "mfg_date": "2025-06-06",
+  "exp_date": "2028-06-30",
+  "recalled": false
+ },
+ {
+  "product_key": "var_imp",
+  "batch_no": "DP2410V",
+  "mfg_date": "2024-10-10",
+  "exp_date": "2027-10-31",
+  "recalled": false
+ },
+ {
+  "product_key": "var_loc",
+  "batch_no": "OV2505V",
+  "mfg_date": "2025-05-25",
+  "exp_date": "2027-05-31",
+  "recalled": false
+ },
+ {
+  "product_key": "tylol",
+  "batch_no": "NB2506T",
+  "mfg_date": "2025-06-12",
+  "exp_date": "2027-06-30",
+  "recalled": false
+ },
+ {
+  "product_key": "tylol_loc",
+  "batch_no": "NV2508T",
+  "mfg_date": "2025-08-08",
+  "exp_date": "2027-08-31",
+  "recalled": false
+ },
+ {
+  "product_key": "dentashan",
+  "batch_no": "LP2407G",
+  "mfg_date": "2024-07-19",
+  "exp_date": "2027-07-31",
+  "recalled": false
+ },
+ {
+  "product_key": "dent_loc",
+  "batch_no": "DF2509G",
+  "mfg_date": "2025-09-09",
+  "exp_date": "2027-09-30",
+  "recalled": false
+ },
+ {
+  "product_key": "asa_loc",
+  "batch_no": "ASA2506X",
+  "mfg_date": "2025-03-01",
+  "exp_date": "2028-02-29",
+  "recalled": false
+ },
+ {
+  "product_key": "keto_imp",
+  "batch_no": "KET2507X",
+  "mfg_date": "2025-03-01",
+  "exp_date": "2028-02-29",
+  "recalled": false
+ },
+ {
+  "product_key": "napr_imp",
+  "batch_no": "NAP2508X",
+  "mfg_date": "2025-03-01",
+  "exp_date": "2028-02-29",
+  "recalled": false
+ },
+ {
+  "product_key": "lor_loc",
+  "batch_no": "LOR2509X",
+  "mfg_date": "2025-03-01",
+  "exp_date": "2028-02-29",
+  "recalled": false
+ },
+ {
+  "product_key": "dif_loc",
+  "batch_no": "DIF2501X",
+  "mfg_date": "2025-03-01",
+  "exp_date": "2028-02-29",
+  "recalled": false
+ },
+ {
+  "product_key": "meto_imp",
+  "batch_no": "MET2502X",
+  "mfg_date": "2025-03-01",
+  "exp_date": "2028-02-29",
+  "recalled": false
+ },
+ {
+  "product_key": "aten_loc",
+  "batch_no": "ATE2503X",
+  "mfg_date": "2025-03-01",
+  "exp_date": "2028-02-29",
+  "recalled": false
+ },
+ {
+  "product_key": "liz_loc",
+  "batch_no": "LIZ2504X",
+  "mfg_date": "2025-03-01",
+  "exp_date": "2028-02-29",
+  "recalled": false
+ },
+ {
+  "product_key": "ena_imp",
+  "batch_no": "ENA2505X",
+  "mfg_date": "2025-03-01",
+  "exp_date": "2028-02-29",
+  "recalled": false
+ },
+ {
+  "product_key": "ator_imp",
+  "batch_no": "ATO2506X",
+  "mfg_date": "2025-03-01",
+  "exp_date": "2028-02-29",
+  "recalled": false
+ },
+ {
+  "product_key": "azi_imp",
+  "batch_no": "AZI2507X",
+  "mfg_date": "2025-03-01",
+  "exp_date": "2028-02-29",
+  "recalled": false
+ },
+ {
+  "product_key": "amox_loc",
+  "batch_no": "AMO2508X",
+  "mfg_date": "2025-03-01",
+  "exp_date": "2028-02-29",
+  "recalled": false
+ },
+ {
+  "product_key": "pant_imp",
+  "batch_no": "PAN2509X",
+  "mfg_date": "2025-03-01",
+  "exp_date": "2028-02-29",
+  "recalled": false
+ },
+ {
+  "product_key": "dentashan",
+  "batch_no": "EU601",
+  "mfg_date": "2026-01-01",
+  "exp_date": "2028-12-31",
+  "recalled": false
+ }
+]

@@ -1,0 +1,7 @@
+{
+  "NSAID": ["ibuprofen", "diklofenak", "ketoprofen", "naproksen", "aspirin", "atsetilsalitsil kislota"],
+  "beta_blocker": ["bisoprolol", "metoprolol", "atenolol", "propranolol"],
+  "MAOI": ["moklobemid", "selegilin", "fenelzin", "tranilsipromin", "furazolidon"],
+  "sedating_antihistamine": ["xlorfeniramin", "difengidramin"],
+  "tricyclic_antidepressant": ["amitriptilin", "imipramin", "klomipramin"]
+}

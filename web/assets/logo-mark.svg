@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Mezon">
+  <title>Mezon</title>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="#0F766E"/>
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5">
+    <!-- pillar and base -->
+    <path d="M32 21v24"/>
+    <path d="M23 46h18"/>
+    <!-- beam -->
+    <path d="M12 21h40"/>
+    <!-- right pan: check mark -->
+    <path d="M42 31.5l4 4 7-8"/>
+    <!-- left pan: capsule outline -->
+    <rect x="10" y="28" width="16" height="8" rx="4"/>
+  </g>
+  <!-- filled half of the capsule -->
+  <path d="M14 28h4v8h-4a4 4 0 0 1 0-8z" fill="#FFFFFF"/>
+  <circle cx="32" cy="18" r="2.6" fill="#FFFFFF"/>
+</svg>
